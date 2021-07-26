@@ -1,4 +1,4 @@
-# DS---Revis-o-2-Bimestre
+# DS-Revisao-POO
 
 Esta é a revisão do 2º bimestre sobre POO
 
